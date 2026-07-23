@@ -7,7 +7,7 @@
 
 ![pic](https://github.com/Tsuiha/MAG_KBD_EVB_RP2040/blob/main/pic/pic2.png)
 
-![pic](https://github.com/Tsuiha/MAG_KBD_EVB_RP2040/blob/main/pic/pic1.jpg)
+
 
 
 
