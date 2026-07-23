@@ -1,10 +1,10 @@
 # vial-qmkとRP2040で作る磁気キーボード
 
-カスタムマトリクスコピペしてconfigとか編集して基板配線したらできます。
-さらっと紹介しているのでpdf見てください。
+rp2040とmuxを使用して作る磁気キーボード用の設計情報です。
+簡単なguideにpdfも入れています。
 
+firmwareはvial-qmkのforkです。
 [firmware](https://github.com/Tsuiha/vial-qmk/tree/he/keyboards/0_he_rp2040/mag_kbd_evb)
-
 
 [software](https://tsuiha.github.io/qmagk_configlator/)
 
